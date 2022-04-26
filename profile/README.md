@@ -1,12 +1,14 @@
-## Hi there 👋
+# The ELN Consortium
+Electronic Lab-Notebooks (ELN) are a central database structure in research, academia and industry. 
 
-<!--
+## Goals
+Define common specifications that allow the interchange of data between different ELNs. Items of interest are:
+- exchange file formats
+- common question schemata
+- etc.
+While we support open-software, we also acknowledge the proprietary solutions in the market. We work towards an inclusive community.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Participating projects
+(in alphabetical order)
+- eLabFTW: https://github.com/elabftw/elabftw
+- PASTA: https://jugit.fz-juelich.de/pasta
