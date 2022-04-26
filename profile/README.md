@@ -6,7 +6,10 @@ Define common specifications that allow the interchange of data between differen
 - exchange file formats
 - common question schemata
 - etc.
-While we support open-software, we also acknowledge the proprietary solutions in the market. We work towards an inclusive community.
+
+While we support open-software, we also acknowledge the proprietary solutions in the market. We invite all producers of ELN solutions to participate.
+
+We work towards an inclusive community.
 
 ## Participating projects
 (in alphabetical order)
