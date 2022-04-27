@@ -15,3 +15,4 @@ We work towards an inclusive community.
 (in alphabetical order)
 - eLabFTW: https://github.com/elabftw/elabftw
 - PASTA: https://jugit.fz-juelich.de/pasta
+- SampleDB: https://github.com/sciapp/sampledb
