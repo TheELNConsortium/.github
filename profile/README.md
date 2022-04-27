@@ -18,4 +18,4 @@ We work towards an inclusive community.
 - SampleDB: https://github.com/sciapp/sampledb
 
 ## History
-The idea of this consortium was born during the HIDA-funded (https://www.helmholtz-hida.de) stay of Nicolas Carpi at the FZJ (https://www.fz-juelich.de).
+The idea of this consortium was born during the [HIDA-funded](https://www.helmholtz-hida.de) stay of Nicolas Carpi at the [FZJ](https://www.fz-juelich.de) / [IEK-2](https://www.fz-juelich.de/iek/iek-2).
