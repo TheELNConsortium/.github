@@ -14,6 +14,7 @@ We work towards an inclusive community.
 ## Participating ELN projects
 (in alphabetical order)
 - eLabFTW: https://github.com/elabftw/elabftw
+- Juliabase: https://www.juliabase.org/
 - PASTA: https://jugit.fz-juelich.de/pasta
 - SampleDB: https://github.com/sciapp/sampledb
 
