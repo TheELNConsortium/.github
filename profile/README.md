@@ -15,6 +15,7 @@ We work towards an inclusive community.
 (in alphabetical order)
 - eLabFTW: https://github.com/elabftw/elabftw
 - Juliabase: https://www.juliabase.org/
+- Kadi4Mat: https://kadi.iam-cms.kit.edu/
 - PASTA: https://jugit.fz-juelich.de/pasta
 - SampleDB: https://github.com/sciapp/sampledb
 
