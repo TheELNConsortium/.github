@@ -14,6 +14,7 @@ We work towards an inclusive community.
 ## Participating ELN projects
 (in alphabetical order)
 - eLabFTW: https://github.com/elabftw/elabftw
+- Herbi: https://www.hereon.de/institutes/metallic_biomaterials/powder_based_materials_development/projects/index.php.de
 - Juliabase: https://www.juliabase.org/
 - Kadi4Mat: https://kadi.iam-cms.kit.edu/
 - PASTA: https://jugit.fz-juelich.de/pasta
