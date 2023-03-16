@@ -21,6 +21,7 @@ We work towards an inclusive community.
 - Kadi4Mat: https://kadi.iam-cms.kit.edu/
 - Nomad: https://nomad-lab.eu/
 - PASTA: https://jugit.fz-juelich.de/pasta
+- RSpace: https://www.researchspace.com/
 - SampleDB: https://github.com/sciapp/sampledb
 
 Interested parties:
