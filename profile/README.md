@@ -20,6 +20,7 @@ We work towards an inclusive community.
 - Juliabase: https://www.juliabase.org/
 - Kadi4Mat: https://kadi.iam.kit.edu/
 - Nomad: https://nomad-lab.eu/
+- OpenSemanticLab: https://github.com/OpenSemanticLab
 - PASTA: https://github.com/PASTA-ELN/pasta-eln
 - RSpace: https://www.researchspace.com/
 - SampleDB: https://github.com/sciapp/sampledb
