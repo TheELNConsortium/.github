@@ -19,6 +19,7 @@ We work towards an inclusive community.
 - Herbi: https://www.hereon.de/institutes/metallic_biomaterials/powder_based_materials_development/projects/index.php.de
 - Juliabase: https://www.juliabase.org/
 - Kadi4Mat: https://kadi.iam.kit.edu/
+- LARAsuite: https://gitlab.com/larasuite/
 - Nomad: https://nomad-lab.eu/
 - OpenSemanticLab: https://github.com/OpenSemanticLab
 - PASTA: https://github.com/PASTA-ELN/pasta-eln
