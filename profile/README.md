@@ -19,6 +19,7 @@ We work towards an inclusive community.
 (in alphabetical order)
 - chemMotion / labIMotion: https://www.chemotion.net
 - chemEdata / Damien Jeannerat https://chemedata.org / https://chemedata.github.io/
+- datalab: https://github.com/datalab-org/datalab
 - eLabFTW: https://github.com/elabftw/elabftw
 - Herbi: https://www.hereon.de/institutes/metallic_biomaterials/powder_based_materials_development/projects/index.php.de
 - Juliabase: https://www.juliabase.org/
