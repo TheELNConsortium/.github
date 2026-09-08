@@ -35,5 +35,7 @@ We work towards an inclusive community.
 Interested parties:
 
 - Indiscale / Linkahead: https://www.indiscale.com/linkahead/
+- Coscine: https://about.coscine.de/en/
+
 ## History
 The idea of this consortium was born during the [HIDA-funded](https://www.helmholtz-hida.de) stay of Nicolas Carpi at the [FZJ](https://www.fz-juelich.de) / [IEK-2](https://www.fz-juelich.de/iek/iek-2).
